@@ -1,0 +1,5 @@
+Built a Machine Learning web app that predicts Air Quality Index (AQI) for Indian cities using pollution data. Trained a Random Forest model on 2015–2020 Kaggle data with 16 features including PM2.5, NO2, and CO. Deployed on Streamlit Cloud with an interactive gauge chart and real-time health alerts.
+
+
+Skills to list under this project:
+Python Scikit-learn Random Forest Pandas Streamlit Data Preprocessing Feature Engineering Model Deployment Kaggle API Joblib
